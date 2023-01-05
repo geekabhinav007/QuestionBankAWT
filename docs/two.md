@@ -10,4 +10,4 @@
 
 ### 10. What is data binding in AngularJS?
 
-[previous](index.md) | [3](three.md) | [4](4.md) | [5](5.md) [more](6.md)
+[previous](index.md) | [3](three.md) | [4](4.md) | [5](5.md) | [more](6.md)
