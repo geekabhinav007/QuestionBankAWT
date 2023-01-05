@@ -10,4 +10,4 @@
 
 ### 5. Explain MVC framework in detail
 
-[1](index.md) | [2](two.md) | [3](three.md) | [4](4.md) | [more](5.md) 
+[1](index.md) | [2](two.md) | [3](three.md) | [4](4.md) | [5](5.md) | [6](6.md) | [7](7.md)
